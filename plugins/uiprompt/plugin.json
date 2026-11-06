@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "uiprompt",
+  "version": "1.0.0",
+  "description": "Build UI from your UIPrompt plan: every page, section and component in order, with your exact copy, brand and stack. Includes the UIPrompt connector.",
+  "author": {
+    "name": "UIPrompt",
+    "url": "https://uiprompt.app"
+  },
+  "homepage": "https://uiprompt.app/integrations/codex",
+  "repository": "https://github.com/Curtisx1/uiprompt-plugins",
+  "license": "MIT",
+  "keywords": ["ui", "design", "frontend", "planning", "mcp", "brand"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "UIPrompt",
+        "shortDescription": "Build UI from your UIPrompt plan",
+        "longDescription": "Plan every page in UIPrompt, then let Codex build it: sections in order, exact copy, your brand files and your stack. The connector also lets Codex lay out new pages on your canvas from a description or a screenshot.",
+        "developerName": "UIPrompt",
+        "category": "Design",
+        "websiteURL": "https://uiprompt.app",
+        "privacyPolicyURL": "https://uiprompt.app/privacy-policy",
+        "termsOfServiceURL": "https://uiprompt.app/terms-of-service",
+        "defaultPrompt": "Build the next page from my UIPrompt project.",
+        "brandColor": "#2c7ef8",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

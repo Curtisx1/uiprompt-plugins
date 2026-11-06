@@ -1,0 +1,14 @@
+{
+  "name": "uiprompt",
+  "owner": {
+    "name": "UIPrompt",
+    "url": "https://uiprompt.app"
+  },
+  "plugins": [
+    {
+      "name": "uiprompt",
+      "source": "./plugins/uiprompt",
+      "description": "Build UI from your UIPrompt plan, with the UIPrompt connector included."
+    }
+  ]
+}

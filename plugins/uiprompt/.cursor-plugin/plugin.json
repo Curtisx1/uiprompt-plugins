@@ -1,0 +1,17 @@
+{
+  "name": "uiprompt",
+  "displayName": "UIPrompt",
+  "version": "1.0.0",
+  "description": "Build UI from your UIPrompt plan: every page, section and component in order, with your exact copy, brand and stack. Includes the UIPrompt connector.",
+  "author": {
+    "name": "UIPrompt",
+    "url": "https://uiprompt.app"
+  },
+  "homepage": "https://uiprompt.app/integrations/cursor",
+  "repository": "https://github.com/Curtisx1/uiprompt-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["ui", "design", "frontend", "planning", "mcp", "brand"],
+  "category": "integrations",
+  "mcpServers": "./cursor.mcp.json"
+}

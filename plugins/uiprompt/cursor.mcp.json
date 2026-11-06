@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uiprompt": {
+      "type": "http",
+      "url": "https://uiprompt.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "uiprompt",
+  "displayName": "UIPrompt",
+  "version": "1.0.0",
+  "description": "Build UI from your UIPrompt plan: every page, section and component in order, with your exact copy, brand and stack. Includes the UIPrompt connector.",
+  "author": {
+    "name": "UIPrompt",
+    "url": "https://uiprompt.app"
+  },
+  "homepage": "https://uiprompt.app/integrations/claude-code",
+  "repository": "https://github.com/Curtisx1/uiprompt-plugins",
+  "license": "MIT",
+  "keywords": ["ui", "design", "frontend", "planning", "mcp", "brand"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://uiprompt.app/integrations/claude-code",
+  "supportUrl": "https://uiprompt.app/contact",
+  "privacyPolicyUrl": "https://uiprompt.app/privacy-policy",
+  "termsOfServiceUrl": "https://uiprompt.app/terms-of-service"
+}
