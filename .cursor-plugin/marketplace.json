@@ -8,7 +8,9 @@
     {
       "name": "uiprompt",
       "source": "./plugins/uiprompt",
-      "description": "Build UI from your UIPrompt plan, with the UIPrompt connector included."
+      "description": "Build UI from your UIPrompt plan, with the UIPrompt connector included.",
+      "category": "integrations",
+      "keywords": ["ui", "design", "frontend", "planning", "mcp", "brand"]
     }
   ]
 }
